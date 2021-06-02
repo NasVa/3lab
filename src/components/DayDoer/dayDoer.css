@@ -1,0 +1,63 @@
+
+#backIm{
+    height: 250px;
+    background-repeat: repeat-x;
+    align-items: center;
+    font-family: fantasy;
+    padding-bottom: 50px;
+}
+
+#dotd{
+    font-size: 30px;
+    font-family: fantasy;
+    color: #24120c;
+    margin-bottom: 30px;
+    margin-left: 30px;
+    text-decoration: underline;
+}
+
+#doer{
+    width: 20%;
+    margin-left: 100px;
+    padding-bottom: 50px;
+}
+
+#doerInf{
+    display: inline-flex;
+}
+
+#Bykov{
+    font-family: "Lucida Bright";
+    font-size: 40px;
+    margin-left:300px;
+}
+
+#years{
+    font-family: "Lucida Bright";
+    font-size: 30px;
+    margin-left:340px;
+}
+
+.container{
+    display: block;
+}
+
+.container1{
+    height: 500px;
+}
+
+#inf1{
+    font-family: "Lucida Bright";
+    padding-top: 50px;
+    padding-left: 200px;
+    padding-right: 200px;
+    display: block;
+}
+
+#inf2{
+    font-family: "Lucida Bright";
+    display: block;
+    padding-top: 50px;
+    padding-left: 200px;
+    padding-right: 200px;
+}

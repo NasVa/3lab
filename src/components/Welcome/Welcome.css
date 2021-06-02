@@ -1,0 +1,16 @@
+#backIm2{
+    height: 250px;
+    background-repeat: repeat-x;
+}
+
+.welcomeAll{
+    font-family: fantasy;
+    align-items: center;
+    margin-left: 30%;
+}
+
+#welcome{
+    font-size: 50px;
+    margin-left: 10%;
+    align-items: center;
+}

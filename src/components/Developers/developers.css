@@ -1,0 +1,47 @@
+#developers{
+    padding: 100px;
+    display: flex;
+}
+
+#dev{
+    font-size: 50px;
+    padding-top: 50px;
+    margin-left: 40%;
+}
+
+.nick{
+    font-size: 30px;
+    margin-left: 40%;
+    margin-bottom: 20px;
+}
+
+.developer1{
+    margin-left: 20%;
+    margin-bottom: 30px;
+    display: inline-grid;
+}
+
+.developer2{
+    margin-left: 20%;
+    margin-bottom: 30px;
+    display: inline-grid;
+}
+
+#gitBut1{
+    margin-top: 20px;
+    margin-left: 70px;
+    width: 100px;
+}
+
+#gitBut2{
+    margin-top: 20px;
+    margin-left: 70px;
+    width: 100px;
+}
+
+#backIm{
+    height: 700px;
+    background-repeat: repeat-x;
+    align-items: center;
+}
+

@@ -1,0 +1,74 @@
+.names{
+    display: flex;
+}
+
+.list{
+    margin-left: 5%;
+}
+
+@font-face {
+    font-family: 'Lobster';
+    font-style: normal;
+    font-weight: 400;
+    src: local('Lobster'), local('Lobster-Regular'),
+    url(https://bootstraptema.ru/snippets/font/2016/lobster/Lobster.woff) format('woff'),
+    url(https://bootstraptema.ru/snippets/font/2016/lobster/Lobster.ttf) format('truetype');
+}
+#map {
+    width: 100%; /* Ширина карты */
+    height: 400px; /* Высота карты */
+}
+.info-window h3 {
+    font-family: 'Lobster'; /* Шрифт заголовка описания */
+    color: #694198; /* Цвет заголовка описания */
+}
+.info-content {
+    color: #777; /* Цвет контента описания */
+}
+
+#carouselExampleSlidesOnly{
+    margin-left: 500px;
+    margin-right: 500px;
+    margin-top: 50px;
+}
+
+#name{
+    text-align: center;
+    font-size: 50px;
+    font-family: "Arial Black";
+
+}
+
+#years{
+    margin-left: 40%;
+    position: center;
+    font-size: 30px;
+    font-family: Centaur;
+}
+
+#poetText{
+    margin-left: 5%;
+    margin-top: 3%;
+}
+
+#infDiv{
+    display: inline-flex;
+}
+
+#imgPoet{
+    margin-left: 10%;
+    max-width: 200px;
+    max-height: 300px;
+}
+
+#video{
+    margin-left: 20%;
+    margin-top: 10%;
+    width: 60%;
+}
+
+#map{
+    margin-top: 10%;
+    margin-left: 20%;
+    width: 100%;
+}
